@@ -9,8 +9,3 @@
   "author": "",
   "license": "ISC"
 }
-"dependencies": {
-    "express": "^4.17.1",
-    "ibm-watson": "^5.5.0",
-
-  },
