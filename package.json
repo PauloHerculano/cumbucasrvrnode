@@ -4,7 +4,6 @@
   "description": "",
   "main": "cumbucaserver.js",
   "dependencies": {
-    "express": "^4.17.1",
   },
   "devDependencies": {},
   "scripts": {
